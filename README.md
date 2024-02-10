@@ -15,7 +15,7 @@ I try to write code that beginners can understand. Keep everything simple. Avoid
 - players **start at a rating of 400** when starting a new game
 - solving or failing a puzzle will change the player rating
   - up to a **maximum of +/- 32**, based on the puzzle difficulty
-- player rating is stored via [`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) 
+- player rating is stored via [`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 - puzzles are selected **randomly** from within **+/- 100** the player rating
 - in order to support **offline play**, approximately ~2 MB of puzzles
   - stored in `/puzzles/offline/puzzles.csv`
@@ -37,6 +37,6 @@ I try to write code that beginners can understand. Keep everything simple. Avoid
 
 ## 📜 License
 
-Copyright (c) 2024 Arlin Schaffel
+Copyright (c) 2024 [Arlin Schaffel](https://fexd.com)
 
-Licensed under the **GNU GPL v3.0 License**, available here: https://github.com/FeXd/puzzle-chess/blob/main/LICENSE.md
+Licensed under the [GNU GPL v3.0 License](https://github.com/FeXd/puzzle-chess/blob/main/LICENSE.md)
