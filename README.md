@@ -4,7 +4,7 @@ Find the best move.
 
 ## 💻 Technology
 
-Built with basic HTML, CSS, and JavaScript.
+Built with basic HTML, CSS, JavaScript, and some libraries (linked below).
 
 ## 🪶 Philosophy
 
@@ -35,7 +35,14 @@ I try to write code that beginners can understand. Keep everything simple. Avoid
 - Uses [fen-validator](https://github.com/jayasurian123/fen-validator), [GNU GPL v3.0](https://choosealicense.com/licenses/gpl-3.0/) by [Jayasurian Makkoth](https://github.com/jayasurian123)
 - Uses [JS-CHESS-ENGINE](https://github.com/josefjadrny/js-chess-engine), [MIT](https://choosealicense.com/licenses/mit/) by [Josef Jadrny](https://github.com/josefjadrny)
 
+## 🎮 Where to Play
+
+- [https://puzzlechess.ca](https://puzzlechess.ca)
+- [https://fexd.itch.io/puzzle-chess](https://fexd.itch.io/puzzle-chess)
+
 ## 📜 License
+
+Source code available on [GitHub](https://github.com/FeXd/puzzle-chess)
 
 Copyright (c) 2024 [Arlin Schaffel](https://fexd.com)
 
