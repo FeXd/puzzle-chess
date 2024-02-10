@@ -1,6 +1,6 @@
 # Puzzle ♟ Chess
 
-A simple chess game where you solve puzzles.
+Find the best move.
 
 ## 💻 Technology
 
